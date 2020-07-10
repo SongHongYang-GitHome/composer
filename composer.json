@@ -1,0 +1,30 @@
+{
+    "name": "songyang/composer2",
+    "description": "Study Composer",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "宋杨",
+            "email": "945679940@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php":">=7.0.0",
+        "phpseclib/phpseclib": "~2.0",
+        "rmccue/requests": ">=1.0"
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://mirrors.aliyun.com/composer"
+        }
+    },
+    "autoload": {
+        "psr-4":{
+            "XingyePayment\\Requests\\":"src/Requests",
+            "XingyePayment\\Responses\\":"src/Responses"
+        }
+    }
+}
