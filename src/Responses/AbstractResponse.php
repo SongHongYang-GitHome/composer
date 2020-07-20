@@ -3,7 +3,7 @@
  * Desc: 类文件描述
  * Date: 2020-07-09
  */
-namespace XingyePayment\Responses;
+namespace GuangdaPayment\Responses;
 use phpseclib\Crypt\RSA;
 
 class AbstractResponse

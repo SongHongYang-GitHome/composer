@@ -4,7 +4,7 @@
  * Date: 2020-07-09
  */
 
-namespace XingyePayment\Requests;
+namespace GuangdaPayment\Requests;
 use phpseclib\Crypt\RSA;
 use Exception;
 

@@ -3,7 +3,7 @@
  * Desc: 请求数据
  * Date: 2020-07-09
  */
-namespace XingyePayment\Requests;
+namespace GuangdaPayment\Requests;
 
 class ReqData
 {

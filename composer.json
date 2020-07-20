@@ -1,6 +1,6 @@
 {
-    "name": "songhongyang/composer2",
-    "description": "Study Composer Demo",
+    "name": "songhongyang/guangdacloudpayment",
+    "description": "China Guangda Bank Cloud Payment Interface Docking Class Library",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -23,8 +23,8 @@
     },
     "autoload": {
         "psr-4":{
-            "XingyePayment\\Requests\\":"src/Requests",
-            "XingyePayment\\Responses\\":"src/Responses"
+            "GuangdaPayment\\Requests\\":"src/Requests",
+            "GuangdaPayment\\Responses\\":"src/Responses"
         }
     }
 }
