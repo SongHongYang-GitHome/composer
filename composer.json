@@ -1,11 +1,11 @@
 {
     "name": "songhongyang/guangdacloudpayment",
-    "description": "China Guangda Bank Cloud Payment Interface Docking Class Library",
+    "description": "China Guangda Bank Cloud Payment Interface Docking Class Library!",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "宋杨",
+            "name": "SongHongYang",
             "email": "945679940@qq.com"
         }
     ],
